@@ -21,7 +21,7 @@
     "vow": "0.4.12",
     "vow-fs": "0.3.4",
     "csso": "^2.0.0",
-    "uglify-js": "2.6.2"
+    "uglify-js": "github:mishoo/UglifyJS2#harmony"
   },
   "devDependencies": {
     "istanbul": "0.2.x",
